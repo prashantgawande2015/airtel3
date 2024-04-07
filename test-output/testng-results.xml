@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-17T15:10:13 IST" name="Default suite" finished-at="2023-12-17T15:10:24 IST" duration-ms="10777">
+    <groups>
+    </groups>
+    <test started-at="2023-12-17T15:10:13 IST" name="Default test" finished-at="2023-12-17T15:10:24 IST" duration-ms="10777">
+      <class name="beforeclass_demo.TestClass1">
+        <test-method is-config="true" signature="launch_Browser()[pri:0, instance:beforeclass_demo.TestClass1@5032714f]" started-at="2023-12-17T15:10:13 IST" name="launch_Browser" finished-at="2023-12-17T15:10:17 IST" duration-ms="3848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_Browser -->
+        <test-method signature="TC_launch_facebook_page()[pri:0, instance:beforeclass_demo.TestClass1@5032714f]" started-at="2023-12-17T15:10:17 IST" name="TC_launch_facebook_page" finished-at="2023-12-17T15:10:18 IST" duration-ms="1247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_launch_facebook_page -->
+        <test-method signature="TC_launch_google_page()[pri:0, instance:beforeclass_demo.TestClass1@5032714f]" started-at="2023-12-17T15:10:18 IST" name="TC_launch_google_page" finished-at="2023-12-17T15:10:24 IST" duration-ms="5420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_launch_google_page -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:beforeclass_demo.TestClass1@5032714f]" started-at="2023-12-17T15:10:24 IST" name="close_browser" finished-at="2023-12-17T15:10:24 IST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- beforeclass_demo.TestClass1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
